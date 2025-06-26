@@ -25,7 +25,7 @@ const Login = () => {
         <div className="flex items-center justify-center min-h-screen bg-gray-100 p-4">
             <Card className="w-full max-w-sm shadow-lg">
                 <CardHeader>
-                    <CardTitle className="text-center text-2xl">Login</CardTitle>
+                    <CardTitle className="text-center text-2xl">Login +1</CardTitle>
                 </CardHeader>
                 <CardContent>
                     <form onSubmit={handleSubmit(onSubmit)} className="space-y-4">
